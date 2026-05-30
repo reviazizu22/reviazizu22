@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Revi Azizu Rohman 👋</h1>
 
 <p align="center">
-  Instrumentation Engineering Student · ITS Surabaya <br/>
-  Building things at the intersection of <strong>hardware</strong> and <strong>intelligent systems</strong>
+  D4 Instrumentation Engineering · ITS Surabaya <br/>
+  I enjoy working where <strong>hardware meets real-world systems</strong>
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@
 
 ## About Me
 
-I'm a 4th-semester Instrumentation Engineering student at Institut Teknologi Sepuluh Nopember (ITS), with a background in industrial automation from vocational school and hands-on internship experience in PLC systems, panel wiring, and IoT sensor integration.
+I'm a D4 Instrumentation Engineering student at Institut Teknologi Sepuluh Nopember (ITS), focusing on industrial automation and control systems. Hands-on experience in industrial panel wiring and PLC programming through internships at PT Granitor System APAC and Microthings. Currently active as Lab Assistant at Lab Instrumentation and Control ITS.
 
-Right now I'm focused on bridging traditional instrumentation with AI-based control — whether that's implementing ANFIS algorithms on embedded hardware, or developing full-stack sensor systems from scratch.
+I enjoy working where hardware meets real-world systems — building things that actually run in industry. Open for discussion about industrial automation and control systems.
 
 Outside the lab, I play music and think a lot about how systems — technical or otherwise — are designed to work together.
 
@@ -31,6 +31,16 @@ Outside the lab, I play music and think a lot about how systems — technical or
 - Multi-sensor data acquisition with real-time Raspberry Pi 5 communication
 - Python GUI for live system monitoring and visualization
 - **Stack:** C++, Python, ESP32, Raspberry Pi 5, ANFIS
+
+---
+
+### 💧 Spectra Dispenser — Smart Water Purification with IoT-Based Quality Monitoring
+> Funded project under PKM-KI 2026 (selected from 21,237 national proposals).
+
+- Role: Electrical Engineer — hardware design, sensor integration, HMI development
+- Integrated water quality sensors: pH, TDS, turbidity, spectrophotometry
+- Real-time IoT monitoring with mobile dashboard
+- **Stack:** ESP32, IoT, Sensor Integration, HMI
 
 ---
 
@@ -64,7 +74,6 @@ Software       │ C++ · Python (GUI, data processing) · Rust
                │ Edge Impulse (TinyML) · Google Apps Script · HTML/JS
 
 Domain         │ Instrumentation & Control Systems · Industrial Automation
-               │ AI-Based Control · Safety Instrumented Systems (IEC 61511)
                │ Technical Documentation & Wiring Diagrams
 ```
 
@@ -79,8 +88,9 @@ Domain         │ Instrumentation & Control Systems · Industrial Automation
 
 ## Currently
 
-- 📚 Studying at ITS — focusing on Safety Instrumented Systems & SCADA architecture
-- 🔬 Lab assistant at the I&C Laboratory
+- 📚 Studying at ITS — D4 Instrumentation Engineering
+- 🔬 Lab Assistant — Lab Instrumentation & Control ITS
+- 💧 Active project: PKM-KI Spectra Dispenser (funded 2026)
 - 📄 Working on an IEEE publication
 
 ---
